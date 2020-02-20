@@ -1,634 +1,529 @@
 {
-    "2": [
-        {
-             
-            "id": 129,
-            "shiny": true,
-            "name": "Magikarp"
-			
-        }, 
-        {
-             
-            "id": 320, 
-			"shiny": true,
-            "name": "Wailmer"
-        }, 
-        {
-             
-            "id": 333, 
-			"shiny": true,
-            "name": "Swablu"
-        }, 
-		{
-             
-            "id": 370,
-			"shiny": true,
-            "name": "Luvdisc"
-        },
-        {
-             
-            "id": 387, 
-			"shiny": true,
-            "name": "Turtwig"
-        }, 
-        {
-             
-            "id": 390,
-			"shiny": true,
-            "name": "Chimchar"
-        }, 
-        {
-             
-            "id": 393,
-			"shiny": false,
-            "name": "Piplup"
-        }, 
-        {
-             
-            "id": 495, 
-			"shiny": false,
-            "name": "Snivy"
-        }, 
-        {
-             
-            "id": 498, 
-			"shiny": false,
-            "name": "Tepig"
-        }, 
-        {
-             
-            "id": 501, 
-			"shiny": false,
-            "name": "Oshawott"
-        }, 
-        {
-             
-            "id": 504, 
-			"shiny": true,
-            "name": "Patrat"
-        }, 
-        {
-             
-            "id": 506, 
-			"shiny": true,
-            "name": "Lillipup"
-        }, 
-        {
-             
-            "id": 509, 
-			"shiny": false,
-            "name": "Purrloin"
-        },
-		{
-            
-            "id": 543, 
-			"shiny": false,
-            "name": "Venipede"
-        },  
-		{
-            
-            "id": 557, 
-			"shiny": false,
-            "name": "Dwebble"
-        } 
-		],
-    "5": [
-        {
-            
-            "id": 77, 
-			"shiny": true,
-            "name": "Ponyta"
-        }, 
-        {
-            
-            "id": 88, 
-			"shiny": true,
-            "name": "Grimer"
-        }, 
-        {
-            
-            "id": 104, 
-			"shiny": true,
-            "name": "Cubone"
-        }, 
-        {
-            
-            "id": 123, 
-			"shiny": true,
-            "name": "Scyther"
-        }, 
-        {
-            
-            "id": 127, 
-			"shiny": true,
-            "name": "Pinsir"
-        }, 
-		{
-            
-            "id": 133, 
-			"shiny": true,
-            "name": "Eevee"
-        }, 
-        {
-            
-            "id": 207, 
-			"shiny": true,
-            "name": "Gligar"
-        }, 
-        {
-            
-            "id": 227, 
-			"shiny": true,
-            "name": "Skarmory"
-        }, 
-        {
-            
-            "id": 313, 
-			"shiny": false,
-            "name": "Volbeat"
-        }, 
-        {
-            
-            "id": 318, 
-			"shiny": true,
-            "name": "Carvanha"
-        }, 
-        {
-            
-            "id": 335, 
-			"shiny": true,
-            "name": "Zangoose"
-        }, 
-        {
-            
-            "id": 337, 
-			"shiny": true,
-            "name": "Lunatone"
-        }, 
-		{
-            
-            "id": 345, 
-			"shiny": true,
-            "name": "Lileep"
-        },
-        {
-            
-            "id": 347, 
-			"shiny": true,
-            "name": "Anorith"
-        }, 
-        {
-            
-            "id": 366, 
-			"shiny": true,
-            "name": "Clamperl"
-        }, 
-		{
-            
-            "id": 412, 
-			"shiny": true,
-			"prefix": "_11",
-            "name": "Burmy (Plant)"
-        }, 
-        {
-            
-            "id": 412, 
-			"shiny": true,
-			"prefix": "_12",
-            "name": "Burmy (Sandy)"
-        }, 
-        {
-            
-            "id": 412, 
-			"shiny": true,
-			"prefix": "_13",
-            "name": "Burmy (Trash)"
-        }, 
-        {
-            
-            "id": 418, 
-			"shiny": false,
-            "name": "Buizel"
-        }, 
-        {
-            
-            "id": 420, 
-			"shiny": false,
-            "name": "Cherubi"
-        }, 
-        {
-            
-            "id": 439, 
-			"shiny": true,
-            "name": "Mime Jr."
-        }, 
-        {
-            
-            "id": 451, 
-			"shiny": false,
-            "name": "Skorupi"
-        }, 
-		{
-            
-            "id": 453, 
-			"shiny": false,
-            "name": "Croagunk"
-        }, 
-        {
-            
-            "id": 511, 
-			"shiny": false,
-            "name": "Pansear"
-        },
-		{
-            
-            "id": 524, 
-			"shiny": false,
-            "name": "Roggenrola"
-        },  
-		{
-            
-            "id": 535, 
-			"shiny": false,
-            "name": "Tympole"
-        },  
-		{
-            
-            "id": 535, 
-			"shiny": false,
-            "name": "Tympole"
-        },  
-		{
-            
-            "id": 568, 
-			"shiny": false,
-            "name": "Trubbish"
-        },  		
-				{
-            
-            "id": 588, 
-			"shiny": false,
-            "name": "Karrablast"
-        },  
-		{
-            
-            "id": 595, 
-			"shiny": false,
-            "name": "Joltik"
-        },
-        {
-            
-            "id": 616, 
-			"shiny": false,
-            "name": "Shelmet"
-        },		
-        {
-            
-            "id": 632, 
-			"shiny": false,
-            "name": "Durant"
-        }	
-       ], 
-    "7": [
-	        {
-
-            "id": 27, 
-			"shiny": true,
-			"form": "Alolan",
-            "name": "Sandshrew"
-        },
-		        {
-
-            "id": 37, 
-			"shiny": true,
-			"form": "Alolan",
-            "name": "Vulpix"
-        },
-		        {
-
-            "id": 50, 
-			"shiny": true,
-			"form": "Alolan",
-            "name": "Diglett"
-        },
-		        {
-
-            "id": 52, 
-			"shiny": true,
-			"form": "Alolan",
-            "name": "Meowth"
-        },
-		        {
-
-            "id": 74, 
-			"shiny": true,
-			"form": "Alolan",
-            "name": "Geodude"
-        },
-		        {
-
-            "id": 88, 
-			"shiny": true,
-			"form": "Alolan",
-            "name": "Grimer"
-        }, 
-        {
-
-            "id": 172, 
-			"shiny": true,
-            "name": "Pichu"
-        }, 
-        {
-
-            "id": 173, 
-			"shiny": true,
-            "name": "Cleffa"
-        }, 
-        {
-
-            "id": 174, 
-			"shiny": true,
-            "name": "Igglybuff"
-        }, 
-        {
-
-            "id": 175, 
-			"shiny": true,
-            "name": "Togepi"
-        }, 
-        {
-
-            "id": 236, 
-			"shiny": false,
-            "name": "Tyrogue"
-        }, 
-        {
-
-            "id": 238, 
-			"shiny": true,
-            "name": "Smoochum"
-        }, 
-        {
-
-            "id": 239, 
-			"shiny": true,
-            "name": "Elekid"
-        }, 
-        {
-
-            "id": 240, 
-			"shiny": true,
-            "name": "Magby"
-        }, 
-        {
-
-            "id": 298, 
-			"shiny": true,
-            "name": "Azurill"
-        }, 
-        {
-
-            "id": 360, 
-			"shiny": true,
-            "name": "Wynaut"
-        }, 
-        {
-
-            "id": 406, 
-			"shiny": true,
-            "name": "Budew"
-        }, 
-        {
-
-            "id": 433, 
-			"shiny": false,
-            "name": "Chingling"
-        }, 
-        {
-
-            "id": 438, 
-			"shiny": true,
-            "name": "Bonsly"
-        }, 
-        {
-
-            "id": 440, 
-			"shiny": false,
-            "name": "Happiny"
-        }, 
-        {
-
-            "id": 446, 
-			"shiny": false,
-            "name": "Munchlax"
-        }, 
-        {
-
-            "id": 447, 
-			"shiny": false,
-            "name": "Riolu"
-        }, 
-        {
-
-            "id": 458, 
-			"shiny": false,
-            "name": "Mantyke"
-        }
-    ], 
-    "10": [
-        {
-
-            "id": 131, 
-			"shiny": true,
-            "name": "Lapras"
-        }, 
-        {
-
-            "id": 137, 
-			"shiny": false,
-            "name": "Porygon"
-        }, 
-        {
-
-            "id": 142, 
-			"shiny": true,
-            "name": "Aerodactyl"
-        }, 
-        {
-
-            "id": 147, 
-			"shiny": true,
-            "name": "Dratini"
-        }, 
-        {
-
-            "id": 246, 
-			"shiny": true,
-            "name": "Larvitar"
-        }, 
-        {
-
-            "id": 280, 
-			"shiny": true,
-            "name": "Ralts"
-        }, 
-        {
-
-            "id": 287, 
-			"shiny": true,
-            "name": "Slakoth"
-        }, 
-        {
-
-            "id": 290, 
-			"shiny": false,
-            "name": "Nincada"
-        }, 
-        {
-
-            "id": 302, 
-			"shiny": true,
-            "name": "Sableye"
-        }, 
-        {
-
-            "id": 303, 
-			"shiny": true,
-            "name": "Mawile"
-        }, 
-        {
-
-            "id": 349, 
-			"shiny": true,
-            "name": "Feebas"
-        }, 
-        {
-
-            "id": 359, 
-			"shiny": true,
-            "name": "Absol"
-        }, 
-        {
-
-            "id": 371, 
-			"shiny": true,
-            "name": "Bagon"
-        }, 
-        {
-
-            "id": 374, 
-			"shiny": true,
-            "name": "Beldum"
-        }, 
-        {
-
-            "id": 403,
-			"shiny": true,
-            "name": "Shinx"
-        }, 
-        {
-
-            "id": 408, 
-			"shiny": false,
-            "name": "Cranidos"
-        }, 
-        {
-
-            "id": 410,
-			"shiny": false,
-            "name": "Shieldon"
-        },
-        {
-
-            "id": 433,
-			"shiny": false,
-            "name": "Chingling"
-        }, 
-        {
-
-            "id": 440,
-			"shiny": false,
-            "name": "Happiny"
-        },  
-		{
-
-            "id": 443,
-			"shiny": false,
-            "name": "Gible"
-        }, 		
-
-        {
-
-            "id": 446, 
-			"shiny": false,
-            "name": "Munchlax"
-        }, 
-        {
-
-            "id": 447, 
-			"shiny": false,
-            "name": "Riolu"
-        }, 
-		{
-
-            "id": 532, 
-			"shiny": false,
-            "name": "Timburr"
-        }, 
-			{
-
-            "id": 539, 
-			"shiny": false,
-            "name": "Sawk"
-        },
-			{
-
-            "id": 564, 
-			"shiny": false,
-            "name": "Tirtouga"
-        }, 		
-				{
-
-            "id": 566, 
-			"shiny": false,
-            "name": "Archen"
-        },
-        {
-
-            "id": 597, 
-			"shiny": false,
-            "name": "Ferroseed"
-        }, 
-        {
-
-            "id": 599,
-			"shiny": true,
-            "name": "Klink"
-        }, 
-        {
-
-            "id": 607, 
-			"shiny": false,
-            "name": "Litwick"
-        },
-        {
-
-            "id": 610, 
-			"shiny": false,
-            "name": "Axew"
-        },		
-        {
-
-            "id": 622, 
-			"shiny": false,
-            "name": "Golett"
-        }, 
-        {
-
-            "id": 633, 
-			"shiny": false,
-            "name": "Deino"
-        } 
- 
-    ]
+   "2":[
+      {
+         "id":129,
+         "shiny":true,
+         "name":"Magikarp"
+      },
+      {
+         "id":320,
+         "shiny":true,
+         "name":"Wailmer"
+      },
+      {
+         "id":333,
+         "shiny":true,
+         "name":"Swablu"
+      },
+      {
+         "id":370,
+         "shiny":true,
+         "name":"Luvdisc"
+      },
+      {
+         "id":387,
+         "shiny":true,
+         "name":"Turtwig"
+      },
+      {
+         "id":390,
+         "shiny":true,
+         "name":"Chimchar"
+      },
+      {
+         "id":393,
+         "shiny":false,
+         "name":"Piplup"
+      },
+      {
+         "id":495,
+         "shiny":false,
+         "name":"Snivy"
+      },
+      {
+         "id":498,
+         "shiny":false,
+         "name":"Tepig"
+      },
+      {
+         "id":501,
+         "shiny":false,
+         "name":"Oshawott"
+      },
+      {
+         "id":504,
+         "shiny":true,
+         "name":"Patrat"
+      },
+      {
+         "id":506,
+         "shiny":true,
+         "name":"Lillipup"
+      },
+      {
+         "id":509,
+         "shiny":false,
+         "name":"Purrloin"
+      },
+      {
+         "id":543,
+         "shiny":false,
+         "name":"Venipede"
+      },
+      {
+         "id":557,
+         "shiny":false,
+         "name":"Dwebble"
+      }
+   ],
+   "5":[
+      {
+         "id":77,
+         "shiny":true,
+         "name":"Ponyta"
+      },
+      {
+         "id":88,
+         "shiny":true,
+         "name":"Grimer"
+      },
+      {
+         "id":104,
+         "shiny":true,
+         "name":"Cubone"
+      },
+      {
+         "id":123,
+         "shiny":true,
+         "name":"Scyther"
+      },
+      {
+         "id":127,
+         "shiny":true,
+         "name":"Pinsir"
+      },
+      {
+         "id":133,
+         "shiny":true,
+         "name":"Eevee"
+      },
+      {
+         "id":207,
+         "shiny":true,
+         "name":"Gligar"
+      },
+      {
+         "id":227,
+         "shiny":true,
+         "name":"Skarmory"
+      },
+      {
+         "id":313,
+         "shiny":false,
+         "name":"Volbeat"
+      },
+      {
+         "id":318,
+         "shiny":true,
+         "name":"Carvanha"
+      },
+      {
+         "id":335,
+         "shiny":true,
+         "name":"Zangoose"
+      },
+      {
+         "id":337,
+         "shiny":true,
+         "name":"Lunatone"
+      },
+      {
+         "id":345,
+         "shiny":true,
+         "name":"Lileep"
+      },
+      {
+         "id":347,
+         "shiny":true,
+         "name":"Anorith"
+      },
+      {
+         "id":366,
+         "shiny":true,
+         "name":"Clamperl"
+      },
+      {
+         "id":412,
+         "shiny":true,
+         "prefix":"_11",
+         "name":"Burmy (Plant)"
+      },
+      {
+         "id":412,
+         "shiny":true,
+         "prefix":"_12",
+         "name":"Burmy (Sandy)"
+      },
+      {
+         "id":412,
+         "shiny":true,
+         "prefix":"_13",
+         "name":"Burmy (Trash)"
+      },
+      {
+         "id":418,
+         "shiny":false,
+         "name":"Buizel"
+      },
+      {
+         "id":420,
+         "shiny":false,
+         "name":"Cherubi"
+      },
+      {
+         "id":439,
+         "shiny":true,
+         "name":"Mime Jr."
+      },
+      {
+         "id":451,
+         "shiny":false,
+         "name":"Skorupi"
+      },
+      {
+         "id":453,
+         "shiny":false,
+         "name":"Croagunk"
+      },
+      {
+         "id":511,
+         "shiny":false,
+         "name":"Pansear"
+      },
+      {
+         "id":524,
+         "shiny":false,
+         "name":"Roggenrola"
+      },
+      {
+         "id":535,
+         "shiny":false,
+         "name":"Tympole"
+      },
+      {
+         "id":535,
+         "shiny":false,
+         "name":"Tympole"
+      },
+      {
+         "id":568,
+         "shiny":false,
+         "name":"Trubbish"
+      },
+      {
+         "id":588,
+         "shiny":false,
+         "name":"Karrablast"
+      },
+      {
+         "id":595,
+         "shiny":false,
+         "name":"Joltik"
+      },
+      {
+         "id":616,
+         "shiny":false,
+         "name":"Shelmet"
+      },
+      {
+         "id":632,
+         "shiny":false,
+         "name":"Durant"
+      }
+   ],
+   "7":[
+      {
+         "id":27,
+         "shiny":true,
+         "form":"Alolan",
+         "name":"Sandshrew"
+      },
+      {
+         "id":37,
+         "shiny":true,
+         "form":"Alolan",
+         "name":"Vulpix"
+      },
+      {
+         "id":50,
+         "shiny":true,
+         "form":"Alolan",
+         "name":"Diglett"
+      },
+      {
+         "id":52,
+         "shiny":true,
+         "form":"Alolan",
+         "name":"Meowth"
+      },
+      {
+         "id":74,
+         "shiny":true,
+         "form":"Alolan",
+         "name":"Geodude"
+      },
+      {
+         "id":88,
+         "shiny":true,
+         "form":"Alolan",
+         "name":"Grimer"
+      },
+      {
+         "id":172,
+         "shiny":true,
+         "name":"Pichu"
+      },
+      {
+         "id":173,
+         "shiny":true,
+         "name":"Cleffa"
+      },
+      {
+         "id":174,
+         "shiny":true,
+         "name":"Igglybuff"
+      },
+      {
+         "id":175,
+         "shiny":true,
+         "name":"Togepi"
+      },
+      {
+         "id":236,
+         "shiny":false,
+         "name":"Tyrogue"
+      },
+      {
+         "id":238,
+         "shiny":true,
+         "name":"Smoochum"
+      },
+      {
+         "id":239,
+         "shiny":true,
+         "name":"Elekid"
+      },
+      {
+         "id":240,
+         "shiny":true,
+         "name":"Magby"
+      },
+      {
+         "id":298,
+         "shiny":true,
+         "name":"Azurill"
+      },
+      {
+         "id":360,
+         "shiny":true,
+         "name":"Wynaut"
+      },
+      {
+         "id":406,
+         "shiny":true,
+         "name":"Budew"
+      },
+      {
+         "id":433,
+         "shiny":false,
+         "name":"Chingling"
+      },
+      {
+         "id":438,
+         "shiny":true,
+         "name":"Bonsly"
+      },
+      {
+         "id":440,
+         "shiny":false,
+         "name":"Happiny"
+      },
+      {
+         "id":446,
+         "shiny":false,
+         "name":"Munchlax"
+      },
+      {
+         "id":447,
+         "shiny":false,
+         "name":"Riolu"
+      },
+      {
+         "id":458,
+         "shiny":false,
+         "name":"Mantyke"
+      }
+   ],
+   "10":[
+      {
+         "id":131,
+         "shiny":true,
+         "name":"Lapras"
+      },
+      {
+         "id":137,
+         "shiny":false,
+         "name":"Porygon"
+      },
+      {
+         "id":142,
+         "shiny":true,
+         "name":"Aerodactyl"
+      },
+      {
+         "id":147,
+         "shiny":true,
+         "name":"Dratini"
+      },
+      {
+         "id":246,
+         "shiny":true,
+         "name":"Larvitar"
+      },
+      {
+         "id":280,
+         "shiny":true,
+         "name":"Ralts"
+      },
+      {
+         "id":287,
+         "shiny":true,
+         "name":"Slakoth"
+      },
+      {
+         "id":290,
+         "shiny":false,
+         "name":"Nincada"
+      },
+      {
+         "id":302,
+         "shiny":true,
+         "name":"Sableye"
+      },
+      {
+         "id":303,
+         "shiny":true,
+         "name":"Mawile"
+      },
+      {
+         "id":349,
+         "shiny":true,
+         "name":"Feebas"
+      },
+      {
+         "id":359,
+         "shiny":true,
+         "name":"Absol"
+      },
+      {
+         "id":371,
+         "shiny":true,
+         "name":"Bagon"
+      },
+      {
+         "id":374,
+         "shiny":true,
+         "name":"Beldum"
+      },
+      {
+         "id":403,
+         "shiny":true,
+         "name":"Shinx"
+      },
+      {
+         "id":408,
+         "shiny":false,
+         "name":"Cranidos"
+      },
+      {
+         "id":410,
+         "shiny":false,
+         "name":"Shieldon"
+      },
+      {
+         "id":433,
+         "shiny":false,
+         "name":"Chingling"
+      },
+      {
+         "id":440,
+         "shiny":false,
+         "name":"Happiny"
+      },
+      {
+         "id":443,
+         "shiny":false,
+         "name":"Gible"
+      },
+      {
+         "id":446,
+         "shiny":false,
+         "name":"Munchlax"
+      },
+      {
+         "id":447,
+         "shiny":false,
+         "name":"Riolu"
+      },
+      {
+         "id":532,
+         "shiny":false,
+         "name":"Timburr"
+      },
+      {
+         "id":539,
+         "shiny":false,
+         "name":"Sawk"
+      },
+      {
+         "id":564,
+         "shiny":false,
+         "name":"Tirtouga"
+      },
+      {
+         "id":566,
+         "shiny":false,
+         "name":"Archen"
+      },
+      {
+         "id":597,
+         "shiny":false,
+         "name":"Ferroseed"
+      },
+      {
+         "id":599,
+         "shiny":true,
+         "name":"Klink"
+      },
+      {
+         "id":607,
+         "shiny":false,
+         "name":"Litwick"
+      },
+      {
+         "id":610,
+         "shiny":false,
+         "name":"Axew"
+      },
+      {
+         "id":622,
+         "shiny":false,
+         "name":"Golett"
+      },
+      {
+         "id":633,
+         "shiny":false,
+         "name":"Deino"
+      }
+   ]
 }
