@@ -138,16 +138,6 @@
          "name":"Lunatone"
       },
       {
-         "id":345,
-         "shiny":true,
-         "name":"Lileep"
-      },
-      {
-         "id":347,
-         "shiny":true,
-         "name":"Anorith"
-      },
-      {
          "id":366,
          "shiny":true,
          "name":"Clamperl"
@@ -321,7 +311,7 @@
       },
       {
          "id":532,
-         "shiny":false,
+         "shiny":true,
          "name":"Timburr"
       },
       {
